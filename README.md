@@ -5,7 +5,7 @@ smaller tools. Alongside my studies I'm building a website-builder tool as a
 personal/business project.
 
 🎓 CS student at OTH Regensburg
-💻 Primarily Java, also comfortable with Python, C, HTML, and Git — plus n8n for automation
+💻 Primarily Java, also comfortable with Python, C, HTML, and Git — plus n8n for automation  
 🌍 Speak German, English, Hebrew, and French
 📫 Looking for a Praktikum (software development) in Germany
 
@@ -17,7 +17,6 @@ personal/business project.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 

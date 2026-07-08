@@ -24,7 +24,7 @@ personal/business project.
 
 ### Featured Projects
 
-📊 **Poll & Survey Platform** —
+📊 **[Poll & Survey Platform](https://github.com/tamird2/poll-pflatform)** —
 *University project.* Full-stack Java + Bootstrap web app for creating
 multi-question polls, inviting participants, and viewing
 individual/aggregated results. Spring Boot backend (layered
